@@ -18,3 +18,7 @@ The goal of this repository is to document my learning journey, practice my prog
 All projects in this repository are part of my learning journey through freeCodeCamp.
 
 **freeCodeCamp Profile:** [zycallado](https://www.freecodecamp.org/zycallado)
+
+---
+
+**Note:** The web designs in these projects are my attempts to recreate the examples provided by freeCodeCamp as part of my learning process.
