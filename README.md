@@ -10,8 +10,8 @@ The goal of this repository is to document my learning journey, practice my prog
 
 
 ## Technologies
-HTML5
-CSS3
+- HTML5
+- CSS3
 
 ## About
 
