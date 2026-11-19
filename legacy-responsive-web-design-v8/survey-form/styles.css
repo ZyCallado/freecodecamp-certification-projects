@@ -37,6 +37,10 @@ label, input, p, select, textarea {
   font-size: 1.2em;
 }
 
+span {
+  font-size: 0.8em;
+}
+
 input:not([type="radio"], [type="checkbox"]), select, textarea {
   box-sizing: border-box;
   width: 100%;
