@@ -5,7 +5,15 @@ This repository contains the certification projects I completed while working th
 The goal of this repository is to document my learning journey, practice my programming skills, and showcase the projects I build along the way.
 
 ## Certifications & Projects
-### Legacy Responsive Web Design V8
+
+### Current
+
+#### Responsive Web Design
+- [x] Survey Form
+
+### Archived
+
+#### Responsive Web Design
 - [x] Survey Form
 
 
